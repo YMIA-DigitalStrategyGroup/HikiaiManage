@@ -1,0 +1,282 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      }
+    },
+    "Count": 46
+  },
+  "Cols": {
+    "Count": 82
+  },
+  "Values": {
+    "1,7": "引合・受注関連　機能"
+  },
+  "AttachInfos": {
+    "2,72": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "ShowCircleUserPicture": true,
+        "NavigateSettingWhenLogout": {
+          "NavigateWhenLogoutMode": 1
+        }
+      }
+    },
+    "7,0": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyMenuCellType, Forguncy.CustomMenu",
+        "TemplateKey": "_RS_Dark_ThemeStyle2",
+        "Items": [
+          {
+            "Text": "マスタデータ管理",
+            "IconPath": "Navigation/165_home_3.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "色仕様マスタ管理",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "オプション工事マスタ管理",
+                "Text": "オプション工事マスタ管理",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "付帯工事マスタ管理",
+                "Text": "付帯工事マスタ管理",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "Excel出力機能",
+            "IconPath": "Navigation/183_table_2.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "色仕様書出力",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "出荷伝票出力",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "支給品リスト出力",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "積込品リスト出力",
+                "Text": "積込品リスト出力",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "見積書出力",
+                "Text": "見積書出力",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "工事指令書出力",
+                "Text": "工事指令書出力",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "出荷判定画面",
+            "IconPath": "Chart/363_column_chart_2.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Value": "支給品明細入荷日設定",
+            "Text": "支給品明細入荷日設定",
+            "IconPath": "Application/031_edit_file_2.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "MenuLevelsStyle": [
+          {
+            "Height": 45.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          },
+          {
+            "Height": 32.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          }
+        ]
+      }
+    },
+    "7,12": {
+      "IsPlaceHolderCell": true
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontSize": 24.0,
+        "Foreground": 0
+      },
+      {
+        "Foreground": 1
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Background 1 0",
+        "Text 2 0",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "1,7": 0,
+      "2,72": 1
+    },
+    "SheetStyle": {
+      "FontFamily": 2
+    }
+  },
+  "Spans": [
+    "7,12,39,70",
+    "2,72,3,10",
+    "7,0,39,12",
+    "1,7,5,22"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
+    "PageLoadedCommandList": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "Pictures": [
+    {
+      "Name": "225aa766-3630-466d-91a1-d3fa2df472b2.png",
+      "ForguncyPictureName": "logo.png",
+      "ForguncyPictureSourceType": 0,
+      "Stretch": 2,
+      "Location": "20,20",
+      "Size": "111,60"
+    }
+  ],
+  "BackgroundPictures": [
+    {
+      "FitToBrowserWidth": true,
+      "FitToBrowserHeight": true,
+      "Repeat": true,
+      "Name": "727a4398-2932-40ee-8acf-1dcc2c6119f7",
+      "DisplayName": "背景画像1",
+      "ForguncyPictureName": "PCMasterBackground",
+      "ForguncyPictureSourceType": 2,
+      "Stretch": 2,
+      "Size": "200,210"
+    },
+    {
+      "Name": "a0212117-67a3-4093-9b4e-6e0ac4ef44ad",
+      "DisplayName": "背景画像2",
+      "ForguncyPictureName": "PCMasterBanner",
+      "ForguncyPictureSourceType": 2,
+      "Stretch": 3,
+      "Size": "1640,100"
+    }
+  ]
+}//KE9Te4secRSJuM4l56Y74uX6w1btMVltvTrHtiiU0X0zE671D7zttNHCDIhKDbXqDOM5+YUi9K57pYkpD9q06/4AIbXFFIWLXkJY+RAPdjfs9MNms14xSJcAxy9WuTNTRcoIPP1JN4+6mmQ2277ahTOGHI5ItYhD6eBGwXvEpjWgquTUzDL6nzKRQjLkMIgwXMBIjfZJ7IphJMtAWuD/uoY8p+/n7gf9LVi4IueaVGtWCk080NcthUkP5nC0/bFzaeT6bM7/H2vwcvgYUr6S6qmuVgKWnGwepspMZITmG76Hyb6PmQ77PAqAUu25rZSK0J8h25Ufvfk60wzgXTw3ubFl8EltUNZMQAHxuL8deJDJerqUCnpz0uUXwFBAkZWBhLrMgmdDpuWWrhAy1xXHBT9zGWTr3OitUfByi+zUjz4ENA3MiGPJn/KpVobTAAQMlYbcxYz9pCmwXuHH7sNaf3AQWqEWSPTjkGwqofpqVfFfP9/1qMevaPP8pbUfKQ19kvaK5UcHZBUlba2n2JNXNJryieTyEKAApgzMdwIVRU2LiLWLexVvhj76SvQXZDz4CBJ16NkZ2B+zXDpOy1BBQQp23L5GZkC8qDmhch/BqXj9Zzp9iB5RSvUVvOU0Yjc4XfbHcK+YdGk3mgV7jikf2tmc/HIh7YmwqmDh7AyruTg4JHN5dC2lBGvuEdh/w0Yq2hV/fvZN2o6g1yrz57bdec7IaPti7DFgh+SjEiOsd9vxh6GekHJmhGPypHSgoBEeTWBya2iqCEgC/VW2kK64iVCTe4amvkQldqrkOpghXFmdl4CnahWjT3HtAZAOM1VuaiXymI0DUumXKU4ytJkCZVblYjsi3Kg/XGOJ9KRQ8yBHpGuDdoNY2wh2RVuQyA5zB06we0rxMYwpMSWAPV3qgw==|920
